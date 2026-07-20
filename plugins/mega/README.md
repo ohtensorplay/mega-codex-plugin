@@ -31,6 +31,7 @@ or publish an OpenAI Plugins Directory listing. See
 [OFFICIAL-WEB-INTEGRATION.md](./OFFICIAL-WEB-INTEGRATION.md) for that separate
 release path.
 
-The bundled Skills are versioned snapshots of the canonical public
-[`ohtensorplay/mega-skills`](https://github.com/ohtensorplay/mega-skills)
-repository.
+The bundled Skills are generated, release-pinned snapshots of the canonical
+public [`ohtensorplay/mega-skills`](https://github.com/ohtensorplay/mega-skills)
+repository. Their exact upstream release and commit are recorded in the
+repository-root `skills.lock.json` file.
