@@ -1,6 +1,7 @@
 ---
 name: mega-cli
 description: Use the MEGA Hub CLI for local authentication, repositories, local files, Git, uploads, downloads, bulk or resumable transfer, streaming logs, scripts, long-running waits, and secret-bearing workflows. Trigger when MCP is too bounded or when the task touches the local filesystem or terminal.
+license: MIT
 ---
 
 # MEGA CLI

@@ -58,26 +58,6 @@ The standalone Skills are available from
 server is available from
 [mega-mcp-server](https://github.com/ohtensorplay/mega-mcp-server).
 
-## Skills source and marketplace releases
-
-[`mega-skills`](https://github.com/ohtensorplay/mega-skills) is the single
-canonical source for the bundled Skills. This repository keeps a self-contained
-snapshot because Codex installs plugins as complete packages. The exact upstream
-release and immutable commit are recorded in [`skills.lock.json`](./skills.lock.json).
-
-Do not edit `plugins/mega/skills` directly. To intentionally adopt a published
-Skills release, run:
-
-```bash
-node scripts/sync-skills.mjs --update vX.Y.Z
-node scripts/sync-skills.mjs --check
-```
-
-Every pull request and marketplace publication verifies the snapshot against
-the locked upstream commit. Pushes to `main` update the repository-backed Codex
-marketplace; a matching `vX.Y.Z` plugin tag additionally creates its GitHub
-Release automatically.
-
 ## Related projects
 
 - [MEGA Hub](https://mega.tensorplay.cn/)

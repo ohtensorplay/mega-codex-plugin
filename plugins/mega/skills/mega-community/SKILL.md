@@ -1,6 +1,7 @@
 ---
 name: mega-community
 description: Work with MEGA papers and community content. Use for paper discovery, arXiv details, linked Hub resources, collections, posts, comments, discussions, pull requests, reporting, or deciding whether a bounded MCP action or the mega CLI/web workflow is required.
+license: MIT
 ---
 
 # MEGA community and papers

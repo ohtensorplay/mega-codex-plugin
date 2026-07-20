@@ -1,6 +1,7 @@
 ---
 name: mega-repositories
 description: Discover, inspect, create, duplicate, and make bounded file changes to MEGA model, dataset, and Space repositories. Use for repository search, metadata, cards, files, refs, commits, canonical mega:// URIs, small text commits, or choosing MCP versus CLI repository operations.
+license: MIT
 ---
 
 # MEGA repositories

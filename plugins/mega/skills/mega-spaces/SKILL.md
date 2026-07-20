@@ -1,6 +1,7 @@
 ---
 name: mega-spaces
 description: Discover, inspect, duplicate, open, configure, and operate MEGA Spaces, including repository files, runtime state, bounded logs, lifecycle actions, and dynamic invocation of compatible Gradio Space MCP tools. Use for any MEGA Space application or deployment workflow.
+license: MIT
 ---
 
 # MEGA Spaces

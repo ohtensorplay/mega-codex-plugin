@@ -1,6 +1,7 @@
 ---
 name: mega
 description: Route any MEGA Hub workflow between the official 29-tool MEGA MCP v1.1 server and the mega CLI. Use for MEGA identity, models, datasets, repositories, Spaces, papers, documentation, community, Jobs, Sandboxes, inference, uploads, downloads, Git operations, or when choosing the safest execution surface.
+license: MIT
 ---
 
 # MEGA workflow router

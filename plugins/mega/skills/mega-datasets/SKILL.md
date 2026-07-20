@@ -1,6 +1,7 @@
 ---
 name: mega-datasets
 description: Find, inspect, create, update, download, upload, version, and process datasets on MEGA Hub. Use for dataset search, dataset cards, schema or file discovery, bounded text reads, dataset repository creation, local or bulk transfer, and reproducible dataset workflows.
+license: MIT
 ---
 
 # MEGA datasets

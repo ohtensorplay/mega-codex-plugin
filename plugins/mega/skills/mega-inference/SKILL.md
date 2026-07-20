@@ -1,6 +1,7 @@
 ---
 name: mega-inference
 description: Discover MEGA models and choose a safe inference execution path for chat, responses, embeddings, or application-specific inference. Use for provider selection, model metadata, compatible Space invocation, direct inference API or CLI workflows, streaming, credentials, quotas, and output validation.
+license: MIT
 ---
 
 # MEGA inference

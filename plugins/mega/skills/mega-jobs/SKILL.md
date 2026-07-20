@@ -1,6 +1,7 @@
 ---
 name: mega-jobs
 description: Plan, submit, inspect, monitor, cancel, and schedule MEGA container Jobs or operate MEGA Sandboxes and warm pools. Use for Job images, commands, arguments, timeouts, labels, logs, schedules, isolated execution, compute cost, output persistence, or deciding whether bounded MCP or the mega CLI is appropriate.
+license: MIT
 ---
 
 # MEGA Jobs
