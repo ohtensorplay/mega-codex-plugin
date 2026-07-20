@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA Inference"
+  short_description: "Choose and run safe MEGA inference paths"
+  default_prompt: "Use $mega-inference to choose and validate the right MEGA inference path for this request."

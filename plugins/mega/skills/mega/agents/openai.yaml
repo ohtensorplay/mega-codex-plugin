@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA Hub"
+  short_description: "Route MEGA workflows between MCP and CLI"
+  default_prompt: "Use $mega to choose and execute the safest MEGA Hub workflow for this request."

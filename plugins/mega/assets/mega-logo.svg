@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 96" role="img" aria-label="MEGA">
+  <rect width="320" height="96" rx="20" fill="#0B0D0C"/>
+  <path d="M26 69V27h12l16 21 17-21h12v42H70V46L54 65 39 46v23z" fill="#C8FF42"/>
+  <text x="105" y="66" fill="#F3F5F2" font-family="ui-sans-serif,system-ui,sans-serif" font-size="48" font-weight="750" letter-spacing="4">MEGA</text>
+</svg>

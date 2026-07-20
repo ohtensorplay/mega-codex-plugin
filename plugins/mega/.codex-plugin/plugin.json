@@ -1,0 +1,47 @@
+{
+  "name": "mega",
+  "version": "1.1.0",
+  "description": "MEGA Hub plugin for Codex with focused workflow skills and the official HF-aligned MEGA MCP v1.1 server.",
+  "author": {
+    "name": "TensorPlay",
+    "email": "feedback@tensorplay.cn",
+    "url": "https://mega.tensorplay.cn/"
+  },
+  "homepage": "https://mega.tensorplay.cn/docs/hub/mcp",
+  "repository": "https://github.com/ohtensorplay/mega-codex-plugin",
+  "license": "MIT",
+  "keywords": [
+    "mega",
+    "models",
+    "datasets",
+    "spaces",
+    "jobs",
+    "inference",
+    "machine-learning",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "MEGA",
+    "shortDescription": "MEGA Hub workflows with official MCP and CLI guidance",
+    "longDescription": "Use MEGA Hub from Codex with focused skills for repositories, datasets, Spaces, Jobs, Sandboxes, inference, and community workflows. The official OAuth MCP v1.1 server exposes 29 HF-aligned tools plus resources and prompts for bounded live operations; skills route local files, bulk transfer, streaming, Git, secrets, unsupported mutations, and automation to the mega CLI.",
+    "developerName": "TensorPlay",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "websiteURL": "https://mega.tensorplay.cn/",
+    "privacyPolicyURL": "https://mega.tensorplay.cn/privacy",
+    "termsOfServiceURL": "https://mega.tensorplay.cn/terms-of-service",
+    "defaultPrompt": [
+      "Help me choose the safest MEGA workflow, using MCP for live API access and the mega CLI for local, bulk, or streaming work"
+    ],
+    "composerIcon": "./assets/mega-mark.svg",
+    "logo": "./assets/mega-logo.svg",
+    "screenshots": [],
+    "brandColor": "#C8FF42"
+  }
+}

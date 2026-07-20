@@ -1,0 +1,20 @@
+{
+  "name": "tensorplay",
+  "interface": {
+    "displayName": "TensorPlay"
+  },
+  "plugins": [
+    {
+      "name": "mega",
+      "source": {
+        "source": "local",
+        "path": "./plugins/mega"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

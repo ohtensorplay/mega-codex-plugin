@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA Community"
+  short_description: "Research and manage MEGA community workflows"
+  default_prompt: "Use $mega-community to research or safely manage this MEGA paper, collection, post, discussion, or pull request."

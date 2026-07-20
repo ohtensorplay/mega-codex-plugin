@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA Jobs"
+  short_description: "Plan and operate MEGA Jobs and Sandboxes"
+  default_prompt: "Use $mega-jobs to plan or operate this MEGA Job, schedule, Sandbox, or warm pool with cost and secret safeguards."

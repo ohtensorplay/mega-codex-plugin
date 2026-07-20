@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA Repositories"
+  short_description: "Search, inspect, and update MEGA repositories"
+  default_prompt: "Use $mega-repositories to handle this MEGA repository workflow with bounded, typed operations."

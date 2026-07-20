@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA Datasets"
+  short_description: "Discover and manage datasets on MEGA Hub"
+  default_prompt: "Use $mega-datasets to discover, inspect, or manage this MEGA dataset reproducibly."

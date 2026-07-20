@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA Spaces"
+  short_description: "Discover, invoke, and operate MEGA Spaces"
+  default_prompt: "Use $mega-spaces to inspect and safely operate this MEGA Space workflow."

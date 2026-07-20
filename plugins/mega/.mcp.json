@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "mega": {
+      "type": "http",
+      "url": "https://mega.tensorplay.cn/mcp",
+      "note": "Official MEGA Hub MCP v1.1 server. OAuth is requested on first use. Exposes 29 HF-aligned tools plus resources and prompts; permission templates and custom scopes are managed by MEGA Hub."
+    }
+  }
+}

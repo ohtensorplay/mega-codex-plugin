@@ -1,0 +1,4 @@
+interface:
+  display_name: "MEGA CLI"
+  short_description: "Operate MEGA through the local CLI"
+  default_prompt: "Use $mega-cli to complete this local, bulk, streaming, or automated MEGA task."
