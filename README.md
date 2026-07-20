@@ -53,11 +53,14 @@ The plugin keeps MCP interactions bounded and explicit. It does not use MCP for 
 - `plugins/mega/skills` — release-pinned copies of the workflow Skills
 - `.agents/plugins/marketplace.json` — the Codex marketplace manifest
 
-The canonical standalone Skills live in [mega-skills](https://github.com/ohtensorplay/mega-skills), and the Worker implementation lives in [mega-mcp-server](https://github.com/ohtensorplay/mega-mcp-server).
+The standalone Skills are available from
+[mega-skills](https://github.com/ohtensorplay/mega-skills), and the remote MCP
+server is available from
+[mega-mcp-server](https://github.com/ohtensorplay/mega-mcp-server).
 
 ## Related projects
 
-- [MEGA Hub](https://github.com/ohtensorplay/mega-hub)
+- [MEGA Hub](https://mega.tensorplay.cn/)
 - [MEGA Agent Skills](https://github.com/ohtensorplay/mega-skills)
 - [MEGA MCP server](https://github.com/ohtensorplay/mega-mcp-server)
 
